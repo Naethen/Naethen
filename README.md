@@ -1,5 +1,20 @@
-# 💫 About Me:
-Hi. My name is Nathan.<br>📚A 3rd year Bsc. Computer Engineering student <br>and an aspiring Software Engineer.<br>Open to learning new languages.<br><br>My hobbies and interests include:<br>🎬Anime<br>🎮Gaming<br>🎧Music<br>🎨Art<br>🌱 Cooking<br>⚡ Mythology
+## 👋 Hey there! I'm Nathan Amankwaa
+
+🎓 MSc. Business & Data Analytics student at KNUST  
+💻 Passionate about building meaningful tech—blending **software engineering** with **data-driven decision making**  
+🚀 Currently working on: Smart restaurant apps, scholarship platforms, and behavior reinforcement tools for schools  
+📊 Exploring: Machine Learning, Business Intelligence, and Data Engineering
+
+---
+
+### 🔧 Tech Stack & Tools
+- 💻 **Languages:** JavaScript, Python, R, SQL
+- 🌐 **Web:** React.js, Next.js, Node.js, Express
+- 📱 **Mobile:** React Native, Expo
+- 🛠 **Tools:** Git, GitHub, Postman, Power BI, VS Code
+- 📊 **Data:** Pandas, scikit-learn, Power BI, RStudio, Excel, Jupyter
+
+---
 
 
 ## 🌐 Socials:
@@ -18,4 +33,5 @@ Hi. My name is Nathan.<br>📚A 3rd year Bsc. Computer Engineering student <br>a
 ---
 [![](https://visitcount.itsvg.in/api?id=Naethen&icon=0&color=0)](https://visitcount.itsvg.in)
 
+Thanks for stopping by! ⭐️
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
